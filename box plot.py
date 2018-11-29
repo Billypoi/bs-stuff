@@ -13,4 +13,4 @@ plt.boxplot(all_data,
 plt.xticks([y+1 for y in range(1)], ['house price'])
 plt.xlabel('price range')
 t = plt.title('Box plot')
-plt.show()
+plt.show() 
